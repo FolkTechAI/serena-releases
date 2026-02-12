@@ -24,8 +24,8 @@
             <enclosure
                 url="https://github.com/FolkTechAI/serena-releases/releases/download/v1.9.0/Serena-1.9.0.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="OZUpdTdnOJVrcydOoMnqHoq1726R+SN3g9s/58NNCmqVQQeWdSkcRWYcmL2diRSSTLfw9y4rB4kMhdExSiqOBA=="
-                length="2081378939"
+                sparkle:edSignature="YcmS1tOSYwlaJIqT+b54pt9W/R6WlQsOYOyogXuN3KIq51NRykKbcFEgW2jWtI17/Wvh1twWidp3mkolinHgBw=="
+                length="2081378993"
             />
         </item>
     </channel>
