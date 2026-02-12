@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Serena Updates</title>
+        <link>https://www.folktechai.com/appcast.xml</link>
+        <description>Serena AI Assistant Updates</description>
+        <language>en</language>
+        <item>
+            <title>Serena 1.9.0</title>
+            <pubDate>Wed, 12 Feb 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1.9.0</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Serena 1.9.0</h2>
+                <ul>
+                    <li>Calendar fix: All-day events and flexible scheduling patterns</li>
+                    <li>Auto-update support via Sparkle</li>
+                    <li>Analytics and error reporting</li>
+                    <li>Branding consistency improvements</li>
+                    <li>Anti-hallucination guardrails for tool actions</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/FolkTechAI/serena-releases/releases/download/v1.9.0/Serena-1.9.0.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="gp3EP2vom8VJGOKDk1aeboN4TsnKgGTOwDAFCyoH1ujR1gFg9m2xFJXtxX4NWR2KCVyeIowjr7m73G1NDnvPDQ="
+                length="2080515027"
+            />
+        </item>
+    </channel>
+</rss>
