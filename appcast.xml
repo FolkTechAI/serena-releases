@@ -6,6 +6,27 @@
         <description>Serena AI Assistant Updates</description>
         <language>en</language>
         <item>
+            <title>Serena 1.9.2</title>
+            <pubDate>Tue, 04 Mar 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1.9.2</sparkle:version>
+            <sparkle:shortVersionString>1.9.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Serena 1.9.2</h2>
+                <ul>
+                    <li>Fixed: Auto-updates now install correctly</li>
+                    <li>Improved: Automatic update checks every 4 hours</li>
+                    <li>Includes all v1.9.1 fixes: beachball prevention, faster streaming, type-while-responding</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/FolkTechAI/serena-releases/releases/download/v1.9.2/Serena-1.9.2.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="0TVtMQ/mu+hUUYry9cIQn5x+o40zxd6bNnY0sjaNKIkBl9OcS51jzsYbT3wVQT/LgyjiCjr97OQtsD3Rt46FCA=="
+                length="2075128050"
+            />
+        </item>
+        <item>
             <title>Serena 1.9.1</title>
             <pubDate>Tue, 04 Mar 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1.9.1</sparkle:version>
