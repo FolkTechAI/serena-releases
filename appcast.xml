@@ -14,16 +14,17 @@
             <description><![CDATA[
                 <h2>Serena 1.9.2</h2>
                 <ul>
-                    <li>Fixed: Auto-updates now install correctly</li>
+                    <li>Fixed: Auto-updates now install correctly (sandbox + Sparkle coexistence)</li>
                     <li>Improved: Automatic update checks every 4 hours</li>
+                    <li>Improved: Re-enabled App Sandbox for better security</li>
                     <li>Includes all v1.9.1 fixes: beachball prevention, faster streaming, type-while-responding</li>
                 </ul>
             ]]></description>
             <enclosure
                 url="https://github.com/FolkTechAI/serena-releases/releases/download/v1.9.2/Serena-1.9.2.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="0TVtMQ/mu+hUUYry9cIQn5x+o40zxd6bNnY0sjaNKIkBl9OcS51jzsYbT3wVQT/LgyjiCjr97OQtsD3Rt46FCA=="
-                length="2075128050"
+                sparkle:edSignature="vPtre1ZYwVzJEBNMUq56EcCbjied7aYboOpfHt4EL7usGf1N7/W30mQ/ueL87SwEO6uzLY6ZN4kc1N6CWZQYDw=="
+                length="2075129350"
             />
         </item>
         <item>
