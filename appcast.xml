@@ -6,6 +6,29 @@
         <description>Serena AI Assistant Updates</description>
         <language>en</language>
         <item>
+            <title>Serena 2.1.0</title>
+            <pubDate>Thu, 03 Apr 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>2.1.0</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Serena 2.1.0</h2>
+                <ul>
+                    <li>New: Annual plan option ($149/year — save 38%)</li>
+                    <li>New: Redesigned upgrade screen with plan selection</li>
+                    <li>New: Message rate limiting (20 messages/day for free tier)</li>
+                    <li>New: Message limit, tool limit, and history limit upgrade banners</li>
+                    <li>Improved: Upgrade prompts throughout the app</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/FolkTechAI/serena-releases/releases/download/v2.1.0/Serena-2.1.0.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="3HIPRHSI7Oo5BOHYf89JRhEV2WpSjurkR+0dLCg85S5Ln3YBA/x0cz8nyunWatF1/d+qkJiaOjuGNM/guF1YDg=="
+                length="51669417"
+            />
+        </item>
+        <item>
             <title>Serena 1.9.2</title>
             <pubDate>Tue, 04 Mar 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1.9.2</sparkle:version>
