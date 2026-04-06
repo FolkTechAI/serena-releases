@@ -6,6 +6,26 @@
         <description>Serena AI Assistant Updates</description>
         <language>en</language>
         <item>
+            <title>Serena 2.1.1</title>
+            <pubDate>Sun, 06 Apr 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>2.1.1</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Serena 2.1.1</h2>
+                <ul>
+                    <li>Fixed: Calendar event scheduling now works with month-based dates (e.g., "schedule dinner on April 17th")</li>
+                    <li>Fixed: Duplicate calendar events no longer appear in morning briefing</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/FolkTechAI/serena-releases/releases/download/v2.1.1/Serena-2.1.1.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="GLUu3O2HCRcIhTdbPbC8Cw8BnnXouOk44IHBkEgSoFABqn4lGLW6gu/J+q3S1zQAcU9eKpaeewL/GdmB80w9Aw=="
+                length="51693374"
+            />
+        </item>
+        <item>
             <title>Serena 2.1.0</title>
             <pubDate>Thu, 03 Apr 2026 00:00:00 +0000</pubDate>
             <sparkle:version>2.1.0</sparkle:version>
