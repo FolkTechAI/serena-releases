@@ -6,6 +6,29 @@
         <description>Serena AI Assistant Updates</description>
         <language>en</language>
         <item>
+            <title>Serena 2.1.2</title>
+            <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>2.1.2</sparkle:version>
+            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Serena 2.1.2</h2>
+                <ul>
+                    <li>Security: License server hardened — 4 HIGH CVEs cleared, IDOR fix on /check_device, license activation now uses per-purchase nonce</li>
+                    <li>Security: Master-key offline bypass closed; subscription state in Keychain is now HMAC-protected with a per-device random key</li>
+                    <li>Fixed: License check timeouts cut from 60s to 10/30s — failed checks no longer freeze the app for a minute</li>
+                    <li>Fixed: Trial expiration tracking now fires correctly when subscription status drifts</li>
+                    <li>Fixed: Gatekeeper-blocked installs on macOS 14+ — the DMG itself is now signed, notarized, and ticket-stapled (v2.1.1 shipped with an unsigned DMG that blocked most first-launches)</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://f004.backblazeb2.com/file/serena-release/v2.1.2/Serena-2.1.2.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="xaGOvo5fpP/O751hSQYQttkFLBQmb/rz5BX4AVmvoGdWs/EeaV4jV++RyLNj0Ozljx2AI/bZd9LaJWgKHnulCQ=="
+                length="5317565091"
+            />
+        </item>
+        <item>
             <title>Serena 2.1.1</title>
             <pubDate>Sun, 06 Apr 2026 00:00:00 +0000</pubDate>
             <sparkle:version>2.1.1</sparkle:version>
