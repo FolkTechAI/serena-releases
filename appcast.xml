@@ -20,7 +20,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/FolkTechAI/serena-releases/releases/download/v2.3.1/Serena-2.3.1.dmg"
+                url="https://github.com/FolkTechAI/serena-releases/releases/download/v2.3.1/Serena-2.3.1-bootstrap.dmg"
                 type="application/octet-stream"
                 sparkle:edSignature="3l2jXd1FDH2mDkWYnu4l2cHTuqrNsIjLKJDYmlqRsArRYSAqO7NgjRCObbDnHFOXSWGR4Fu+Fc0oAd4B6hIFDA=="
                 length="27776027"
