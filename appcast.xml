@@ -6,6 +6,27 @@
         <description>Serena AI Assistant Updates</description>
         <language>en</language>
         <item>
+            <title>Serena 2.3.1</title>
+            <pubDate>Fri, 07 Aug 2026 23:49:05 -0700</pubDate>
+            <sparkle:version>2.3.1</sparkle:version>
+            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Serena 2.3.1</h2>
+                <ul>
+                    <li>Fixed: public downloads now use a small, notarized GitHub installer instead of a multi-gigabyte Backblaze DMG.</li>
+                    <li>New: local model setup starts only after you explicitly choose to set up Serena.</li>
+                    <li>Fixed: macOS Gatekeeper install and first-launch verification for the public installer.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/FolkTechAI/serena-releases/releases/download/v2.3.1/Serena-2.3.1.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="3l2jXd1FDH2mDkWYnu4l2cHTuqrNsIjLKJDYmlqRsArRYSAqO7NgjRCObbDnHFOXSWGR4Fu+Fc0oAd4B6hIFDA=="
+                length="27776027"
+            />
+        </item>
+        <item>
             <title>Serena 2.1.2</title>
             <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
             <sparkle:version>2.1.2</sparkle:version>
